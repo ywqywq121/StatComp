@@ -1,0 +1,18 @@
+Package: StatComp21072
+Type: Package
+Title: Provide several functions for the final homework of the
+        'Statistical Computing' course in 2021 fall
+Version: 1.0
+Date: 2021-12-15
+Author: Weiqi Yang
+Maintainer: Weiqi Yang <976237481@qq.com>
+Description: Two R functions can be used to do the  Semiparametric linear regreesion with Robinson and Li methods.
+License: GPL (>= 2)
+Imports: Rcpp, knitr, rmarkdown, parallel, qpdf
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/ywqywq121/StatComp
+BugReports: http://github.com/ywqywq121/StatComp/issues
